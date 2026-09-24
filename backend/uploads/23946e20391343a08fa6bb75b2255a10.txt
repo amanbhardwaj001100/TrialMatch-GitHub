@@ -1,0 +1,21 @@
+﻿PATIENT MEDICAL REPORT
+
+Patient: Report Upload Integration Patient
+Age: 45
+Gender: Male
+
+Diagnosis:
+Type 2 Diabetes
+
+Disease Stage:
+Stage 2
+
+Symptoms:
+Increased thirst, fatigue and frequent urination.
+
+Current Medication:
+Metformin.
+
+Clinical Note:
+Patient requires continued monitoring of blood glucose
+and metabolic parameters.
